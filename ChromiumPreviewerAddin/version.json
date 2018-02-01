@@ -1,0 +1,12 @@
+﻿{
+  {
+    "id": "ChromiumPreviewerAddin",
+    "name": "ChromiumPreviewerAddin",
+    "summary": "Descript ChromiumPreviewerAddin in a short paragraph",
+    "description": "Describe ChromiumPreviewerAddin with a long description",    
+    "version": "0.01",
+    "minVersion": "1.0",
+    "author": "© your comany",
+    "updated": "2017-1-10T12:00:00Z"
+  }
+}
